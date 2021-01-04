@@ -11,7 +11,10 @@
    
    /* ---------------------------------------------------------- Nav Bar ----------------------------------------------------------------------*/
    
-  
+  body {
+margin : 0;
+font-family: Times New Roman, Helvetica, sans-serif;
+}
 
 ul {
    list-style-type: none;
