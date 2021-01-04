@@ -1,0 +1,45 @@
+ body {
+      background-color: blue;
+    }
+    
+    h1 {
+      color: pink;
+      text-align: center;
+      font-size: 100px;
+    }
+   
+   
+   /* ---------------------------------------------------------- Nav Bar ----------------------------------------------------------------------
+   
+     
+ ul {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+   backgroud-color: #FFFBFF
+     }
+     
+     li {
+       float: left;
+       
+     }
+     
+     li a {
+       display: block;
+       color: white;
+       text-align: center;
+       padding: 14px 16px;
+       tex-decoration: none;
+     }
+     
+     li a:hover { 
+     background-color: #a31ca3
+     
+       
+  .active {
+    background-color: #a76bcf
+     }
+     
+    
+
