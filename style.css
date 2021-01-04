@@ -11,13 +11,17 @@
    
    /* ---------------------------------------------------------- Nav Bar ----------------------------------------------------------------------*/
    
-     
- ul {
-   list-style-type: none;
+    body {
+margin : 0;
+font-family: Times New Roman, Helvetica, sans-serif;
+}
+
+ul {
+   lisy-style-type: none;
    margin: 0;
    padding: 0;
    overflow: hidden;
-   backgroud-color: #FFFBFF
+   background-color: #a76bcf;
      }
      
      li {
@@ -33,13 +37,11 @@
        tex-decoration: none;
      }
      
-     li a:hover { 
+      li a:hover { 
      background-color: #a31ca3
+     
      
        
   .active {
-    background-color: #a76bcf
-     }
-     
-    
-
+    background-color: #a76bcf;
+     } 
